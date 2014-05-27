@@ -1,0 +1,47 @@
+D:\ERP\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+D:\ERP\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+D:\ERP\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+D:\ERP\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+D:\ERP\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+D:\ERP\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+C:\Users\CHAMILA\Desktop\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+C:\Users\CHAMILA\Desktop\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2_2\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2_2\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2_2\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2_2\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2_2\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+C:\Users\CHAMILA\Desktop\wsRDIntegration_2_2_2\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+D:\Work Space web\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+D:\Work Space web\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+D:\Work Space web\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+D:\Work Space web\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+D:\Work Space web\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+D:\Work Space web\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+D:\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+D:\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+D:\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+D:\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+D:\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+D:\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
+C:\Users\Thilina\Desktop\Link\Link\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll.config
+C:\Users\Thilina\Desktop\Link\Link\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.dll
+C:\Users\Thilina\Desktop\Link\Link\wsRDIntegration\wsRDIntegration\bin\Debug\wsRDIntegration.pdb
+C:\Users\Thilina\Desktop\Link\Link\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Thilina\Desktop\Link\Link\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.dll
+C:\Users\Thilina\Desktop\Link\Link\wsRDIntegration\wsRDIntegration\obj\Debug\wsRDIntegration.pdb
